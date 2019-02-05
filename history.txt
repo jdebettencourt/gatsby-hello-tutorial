@@ -1,0 +1,142 @@
+    1  cd ./workspace 
+    2  node --vrsion
+    3  node -v
+    4  git clone https://github.com/jdebettencourt/node8it339.git ./workspace
+    5  ls -al
+    6  cd workspace
+    7  ls -al
+    8  cd ..
+    9  ls -al
+   10  git clone https://github.com/jdebettencourt/node8it339.git .
+   11  cd nodeexp
+   12  node index.js
+   13  npm install
+   14  node index.js
+   15  cd ./workspace 
+   16  cd ./workspace/serverless 
+   17  npm install -g serverless
+   18  node --version
+   19  serverless --version
+   20  cd ./workspace 
+   21  node -v
+   22  npm -v
+   23  nvm -v
+   24  nvm --version
+   25  cd firstnode
+   26  touch app.js
+   27  npm init
+   28  npm install express ejs --save
+   29  mkdir views
+   30  cd views
+   31  touch home.ejs
+   32  touch bye.ejs
+   33  cd ..
+   34  node app.js
+   35  touch .gitignore
+   36  git init
+   37  git add .
+   38  git commit -m "first try"
+   39  git remote add origin https://github.com/jdebettencourt/firstnode.git
+   40  git remote -v
+   41  git push origin master
+   42  cd ../.
+   43  mkdir firstcopy
+   44  git clone https://github.com/jdebettencourt/firstnode.git firstcopy
+   45  cd firstcopy
+   46  npm install
+   47  git -v
+   48  git --version
+   49  cd ./workspace 
+   50  cd ang*
+   51  npm i
+   52  npm audit
+   53  npm audit fix
+   54  npm run start
+   55  npm run bundle
+   56  cd ./workspace/jdebettencourt.github.io 
+   57  git add -A
+   58  git commit -m "updated static todos"
+   59  git push origin master
+   60  cd ./workspace 
+   61  history
+   62  cd jdebett*
+   63  history
+   64  cd ./workspace 
+   65  cd ./workspace 
+   66  cd jdebette*
+   67  cd react
+   68  npm i
+   69  npm build
+   70  cd ..
+   71  http-server -p 3000 -a 0000000
+   72  http-server -p 3000 -a 0.0.0.0
+   73  cd react
+   74  http-server -p 3000 -a 0.0.0.0
+   75  cd ./workspace 
+   76  history
+   77  cd jdebette*
+   78  cd react
+   79  npm run
+   80  npm start
+   81  cd ~/.
+   82  cd work*
+   83  *npm i gulp -g
+   84  npm i gulp -g
+   85  cd jdebette*/react
+   86  npm start
+   87  cd ..
+   88  npm i -g gulp
+   89  cd react
+   90  npm start
+   91  npm run start
+   92  npm run
+   93  npm i
+   94  npm i:run
+   95  npm run cy:run
+   96  react builr
+   97  npm start
+   98  gulp --version
+   99  gulp test-server
+  100  npm install gulp
+  101  gulp test-server
+  102  npm run cy:run
+  103  npm i cy;press
+  104  npm i cypress
+  105  npm run cy:run
+  106  npm uninstall cypress
+  107  react -v
+  108  npm i -g create-react-app
+  109  npm run
+  110  npm serve
+  111  npm start
+  112  npm run server
+  113  serve
+  114  test-server
+  115  npm -i static-server
+  116  npm -i static-serve
+  117  npm i -g static-serve
+  118  serve
+  119  static-serve
+  120  static-serve -h
+  121  static-serve -p 3000
+  122  npm i -g http-server
+  123  http-server -h
+  124  http-server -p 3000
+  125  cd ..
+  126  http-server -p 3000
+  127  cd ./workspace 
+  128  git --version
+  129  node --version
+  130  npm --version
+  131  npm install --global gatsby-cli
+  132  gatsby --version
+  133  gatsby --help
+  134  gatsby new gatsby-hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
+  135  curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+  136  cd gatsby-hello-world && gatsby develop --host=0.0.0.0
+  137  gatsby develop --host=0.0.0.0
+  138  gatsby develop --host=0.0.0.0 --port=3000
+  139  gatsby build
+  140  surge public/
+  141  surge public/ industrious-cook.surge.sh
+  142  history > history.txt
