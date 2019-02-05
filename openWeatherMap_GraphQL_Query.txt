@@ -1,0 +1,31 @@
+{
+  openWeather {
+    cod
+    cnt
+    city {
+      id
+      population
+    }
+    list {
+      dt
+      dt_txt
+      weather {
+        id
+        main
+      }
+      main {
+        temp
+        temp_min
+        temp_max
+        pressure
+        sea_level
+        grnd_level
+        humidity
+        temp_kf
+      }
+      rain {
+        _3h
+      }
+    }
+  }
+}
